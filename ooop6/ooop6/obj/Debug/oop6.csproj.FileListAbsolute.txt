@@ -1,0 +1,11 @@
+C:\Users\marsy\Source\Repos\ooop6\ooop6\obj\Debug\oop6.csproj.AssemblyReference.cache
+C:\Users\marsy\Source\Repos\ooop6\ooop6\obj\Debug\oop6.csproj.SuggestedBindingRedirects.cache
+C:\Users\marsy\Source\Repos\ooop6\ooop6\obj\Debug\ooop6.Properties.Resources.resources
+C:\Users\marsy\Source\Repos\ooop6\ooop6\obj\Debug\oop6.csproj.GenerateResource.cache
+C:\Users\marsy\Source\Repos\ooop6\ooop6\obj\Debug\oop6.csproj.CoreCompileInputs.cache
+C:\Users\marsy\Source\Repos\ooop6\ooop6\bin\Debug\ooop6.exe.config
+C:\Users\marsy\Source\Repos\ooop6\ooop6\bin\Debug\ooop6.exe
+C:\Users\marsy\Source\Repos\ooop6\ooop6\bin\Debug\ooop6.pdb
+C:\Users\marsy\Source\Repos\ooop6\ooop6\obj\Debug\ooop6.Form1.resources
+C:\Users\marsy\Source\Repos\ooop6\ooop6\obj\Debug\ooop6.exe
+C:\Users\marsy\Source\Repos\ooop6\ooop6\obj\Debug\ooop6.pdb
