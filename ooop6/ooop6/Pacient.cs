@@ -26,7 +26,7 @@ namespace ooop6
 
         double ABSI()
         {
-            return obvodPasu / (Math.Pow(BMI(),2/3) * Math.Sqrt(vyska));
+            return obvodPasu / (Math.Pow(BMI(), 0.66666666666) * Math.Sqrt(vyska));
         }
 
         public override string ToString()
